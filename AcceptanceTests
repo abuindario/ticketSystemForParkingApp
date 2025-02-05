@@ -1,0 +1,7 @@
+En cualquier caso, recibe un ticket con código inexistente --> Error - ticket no existe
+
+Para salir del parking, recibe un ticket existente pero que no está pagado --> Error - ticket no pagado
+
+Para salir del parking, recibe un ticket existente y que está pagado  --> abrir barrera
+
+Para pagar un ticket, recibe un ticket que no está pagado --> marcar ticket como pagado
